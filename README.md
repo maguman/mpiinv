@@ -1,4 +1,4 @@
 mpiinv
 ======
 
-csem 3d inversion using mpifffffffff
+3D CSEM inversion codes
